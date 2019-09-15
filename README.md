@@ -1,2 +1,2 @@
-# farmer-showcase
-Experiments with Farmer dataset
+# Farmer Showcase [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+> Experiments with Farmer dataset
