@@ -1,101 +1,101 @@
-sample_id,name,application_label,importance,version_code
-4013045,com.facebook.katana:videoplayer,,service,0
-4378633,com.mobdro.android:remote,,service,0
-4450303,com.touchtype.swiftkey,teclado swiftkey,service,820511125
-3946946,com.google.android.googlequicksearchbox:search,,service,0
-3999384,org.telegram.messenger,telegram,service,12131
-4283967,com.facebook.katana,facebook,service,96845997
-4513319,com.google.android.music:main,google play música,service,47211
-3808304,com.android.chrome:sandboxed_process7,,service,0
-3936678,com.facebook.orca:videoplayer,,service,0
-3786227,com.facebook.katana:notification,,service,0
-4445116,com.whatsapp,whatsapp,service,452192
-4216388,com.facebook.orca,messenger,service,96707677
-4501555,com.sec.android.app.sbrowser:privileged_process2,,service,0
-4502581,com.lge.wifi.p2p,lg p2p service,service,10000
-4126015,com.google.android.music:main,google play música,service,66261
-4027099,com.google.android.music:main,google play música,service,66261
-4427009,com.android.chrome:sandboxed_process0,,service,0
-4274677,com.facebook.katana:videoplayer,,service,0
-4159270,com.facebook.services,facebook services,service,84456996
-4292832,com.hmatalonga.greenhub,batteryhub,foreground app,14
-3992728,com.android.chrome,chrome,foreground app,328213752
-4394410,com.instagram.android:igplayer,,service,0
-3766515,com.viber.voip,viber,service,120295
-4127777,com.facebook.orca,messenger,service,91829660
-4177469,com.mobdro.android,mobdro,service,21412592
-3758986,com.facebook.orca,messenger,service,89010167
-4182299,com.ksmobile.launcher:locker,,foreground app,0
-4023739,com.facebook.orca:videoplayer,,service,0
-4285217,com.google.android.googlequicksearchbox:interactor,,service,0
-4180201,com.whatsapp,whatsapp,service,452171
-3884293,com.sec.android.app.sbrowser:privileged_process0,,service,0
-4190461,com.tct.weather,meteorologia,service,418021101
-4171483,com.sec.sve,secvideoengineservice,service,1
-3775274,com.mobdro.android:remote,,service,0
-4188528,com.google.android.googlequicksearchbox:search,,service,0
-3847560,com.google.android.googlequicksearchbox:interactor,,service,0
-3801644,com.facebook.katana:notification,,service,0
-4341847,com.instagram.android:igplayer,,service,0
-3992637,com.google.android.googlequicksearchbox:interactor,,service,0
-3984878,com.google.android.googlequicksearchbox:search,,service,0
-4218856,com.microsoft.skydrive,onedrive,service,2025060510
-3781360,com.facebook.orca,messenger,service,89010167
-4418337,com.facebook.orca,messenger,service,96707673
-4412737,com.google.android.music:main,google play música,service,67731
-3777024,com.google.android.talk,hangouts,service,24746340
-4155545,com.instagram.android:igplayer,,service,0
-4473815,com.hmatalonga.greenhub,batteryhub,service,14
-4091478,com.samsung.android.smartface,smartfaceservice,service,1
-4469957,com.facebook.katana:notification,,service,0
-3854070,com.estrongs.android.pop:local,,service,0
-4412975,com.facebook.katana:videoplayer,,service,0
-3935488,com.hmatalonga.greenhub,batteryhub,service,11
-3935329,com.google.android.googlequicksearchbox:interactor,,service,0
-4185834,com.facebook.orca,messenger,service,72205314
-4054339,com.hmatalonga.greenhub,batteryhub,service,14
-3919364,com.vodafone.mcare,my vodafone,service,248780168
-4413338,com.google.android.music:main,google play música,service,67731
-4361051,com.google.android.googlequicksearchbox:search,,service,0
-4326523,com.instagram.android:mqtt,,service,0
-4088559,com.google.android.music:main,google play música,service,66261
-4212801,com.facebook.katana,facebook,service,94117312
-4258212,com.sec.android.app.sbrowser:sandboxed_process0,,service,0
-3997033,com.estrongs.android.pop,es file explorer,service,626
-4341257,com.sec.android.app.samsungapps,galaxy apps,background process,421802110
-4413452,com.samsung.android.fingerprint.service,impressões digitais,service,10100
-3942347,com.google.android.music:main,google play música,service,66261
-3829469,com.google.android.music:main,google play música,service,47211
-3908448,com.google.android.music:main,google play música,service,66261
-3884462,com.facebook.katana:videoplayer,,service,0
-4193300,com.sec.android.app.sbrowser,samsung internet,service,620112000
-4062359,com.samsung.android.app.cocktailbarservice,ecrã lateral,service,310000001
-4193813,com.estrongs.android.pop:local,,service,0
-3769099,com.vodafone.mcare,my vodafone,service,248780154
-3791475,com.facebook.katana:videoplayer,,service,0
-4046165,com.android.chrome:sandboxed_process0,,service,0
-3784409,com.google.android.music:main,google play música,service,66261
-4031305,com.google.android.googlequicksearchbox:interactor,,service,0
-3870380,com.google.android.inputmethod.latin,gboard,service,26680809
-4295156,com.instagram.android,instagram,service,96794592
-4259495,com.android.chrome:sandboxed_process0,,service,0
-3897121,com.google.android.googlequicksearchbox:interactor,,service,0
-3878984,com.samsung.android.app.cocktailbarservice,edge screen,service,310000001
-3908158,com.google.android.googlequicksearchbox:interactor,,service,0
-4370453,com.vlingo.midas,s voice,background process,11020200
-4120242,com.google.android.inputmethod.latin,gboard,service,26690810
-3937739,com.facebook.katana:videoplayer,,service,0
-4354897,com.google.android.googlequicksearchbox:search,,service,0
-4160518,com.emoji.keyboard.touchpal,touchpal 2018,service,5213
-4102351,com.google.android.googlequicksearchbox:interactor,,service,0
-4391323,com.google.android.music:main,google play música,service,67731
-4040035,com.facebook.orca:videoplayer,,service,0
-3758962,com.lge.wifi.p2p,lg p2p service,service,10000
-4511586,com.facebook.orca:videoplayer,,service,0
-4133182,com.hmatalonga.greenhub,batteryhub,service,14
-4423801,com.touchtype.swiftkey,teclado swiftkey,service,939524357
-4415476,com.android.chrome:sandboxed_process9,,service,0
-3989159,com.facebook.orca,messenger,foreground app,90884549
-4457489,com.facebook.orca,messenger,service,98311445
-4325048,com.facebook.orca:videoplayer,,service,0
-4325562,com.google.android.googlequicksearchbox:search,,service,0
+,fk,name,application_label,importance,version_code,timestamp,battery_state,battery_level,network_status,screen_brightness,screen_on,charger,current_average,energy_counter,health,temperature,voltage
+0,4013045,com.facebook.katana:videoplayer,,service,0,2018-02-12 23:05:20,charging,12,wifi,224,0,ac,0,-1,good,24.0,3.91
+1,4378633,com.mobdro.android:remote,,service,0,2018-03-06 23:23:04,charging,49,disconnected,102,0,ac,0,-1,good,25.0,4.07
+2,4450303,com.touchtype.swiftkey,teclado swiftkey,service,820511125,2018-03-15 10:08:35,discharging,42,disconnected,-1,1,unplugged,820,-1,good,23.1,3.95
+3,3946946,com.google.android.googlequicksearchbox:search,,service,0,2018-02-08 13:07:35,charging,58,disconnected,145,0,ac,1767,-1,good,31.8,4.1
+4,3999384,org.telegram.messenger,telegram,service,12131,2018-02-12 02:03:12,discharging,65,wifi,-1,1,unplugged,0,-1,good,20.0,3.82
+5,4283967,com.facebook.katana,facebook,service,96845997,2018-03-22 18:39:21,discharging,30,wifi,138,1,unplugged,0,-1,good,31.2,3.77
+6,4513319,com.google.android.music:main,google play música,service,47211,2018-03-28 00:17:23,discharging,33,disconnected,-1,0,unplugged,-175,-1,good,27.3,3.77
+7,3808304,com.android.chrome:sandboxed_process7,,service,0,2018-02-01 03:45:21,charging,3,wifi,137,1,ac,0,-1,good,37.2,4.08
+8,3936678,com.facebook.orca:videoplayer,,service,0,2018-02-08 13:17:45,discharging,23,wifi,134,1,unplugged,0,-1,good,27.4,3.64
+9,3786227,com.facebook.katana:notification,,service,0,2018-01-30 13:46:14,discharging,17,wifi,-1,1,unplugged,0,-1,good,36.6,3.64
+10,4445116,com.whatsapp,whatsapp,service,452192,2018-03-05 15:56:33,charging,26,wifi,97,0,ac,662,-1,good,21.0,3.89
+11,4216388,com.facebook.orca,messenger,service,96707677,2018-03-18 23:26:49,charging,57,wifi,-1,0,ac,935,-1,good,25.7,4.09
+12,4501555,com.sec.android.app.sbrowser:privileged_process2,,service,0,2018-03-26 12:26:34,discharging,84,lte,-1,1,unplugged,-931,-1,good,28.7,3.95
+13,4502581,com.lge.wifi.p2p,lg p2p service,service,10000,2018-03-26 23:15:36,charging,95,wifi,255,0,ac,0,-1,good,23.5,4.31
+14,4126015,com.google.android.music:main,google play música,service,66261,2018-02-19 21:06:27,charging,71,wifi,-1,0,ac,0,-1,good,30.7,4.2
+15,4027099,com.google.android.music:main,google play música,service,66261,2018-02-13 17:49:50,charging,90,wifi,-1,0,ac,714,-1,good,25.6,4.39
+16,4427009,com.android.chrome:sandboxed_process0,,service,0,2018-03-24 12:18:21,discharging,77,wifi,-1,1,unplugged,0,-1,good,18.0,4.13
+17,4274677,com.facebook.katana:videoplayer,,service,0,2018-03-03 11:30:51,charging,87,wifi,-1,0,ac,1455,-1,good,27.6,4.34
+18,4159270,com.facebook.services,facebook services,service,84456996,2018-01-29 17:35:09,charging,92,disconnected,-1,0,ac,778,-1,good,31.8,4.3
+19,4292832,com.hmatalonga.greenhub,batteryhub,foreground app,14,2018-03-22 19:07:35,discharging,68,lte,44,1,unplugged,0,-1,good,32.0,3.88
+20,3992728,com.android.chrome,chrome,foreground app,328213752,2018-02-11 00:44:10,charging,65,wifi,144,1,ac,809,-1,good,29.1,4.14
+21,4394410,com.instagram.android:igplayer,,service,0,2018-02-28 22:49:51,discharging,50,hspap,-1,0,unplugged,0,-1,good,29.4,3.71
+22,3766515,com.viber.voip,viber,service,120295,2018-01-16 10:43:27,discharging,85,disconnected,84,1,unplugged,-499,-1,good,34.6,3.81
+23,4127777,com.facebook.orca,messenger,service,91829660,2018-02-19 22:47:52,discharging,54,disconnecting,242,1,unplugged,0,-1,good,33.4,3.77
+24,4177469,com.mobdro.android,mobdro,service,21412592,2018-02-22 21:24:02,discharging,24,wifi,242,1,unplugged,0,-1,good,28.8,3.56
+25,3758986,com.facebook.orca,messenger,service,89010167,2018-01-28 20:48:32,charging,65,wifi,244,0,ac,0,-1,good,29.0,4.09
+26,4182299,com.ksmobile.launcher:locker,,foreground app,0,2018-02-22 14:53:42,discharging,85,disconnected,133,0,unplugged,-242,-1,good,19.3,4.05
+27,4023739,com.facebook.orca:videoplayer,,service,0,2018-02-12 22:39:55,discharging,90,disconnected,83,0,unplugged,-74,-1,good,29.8,4.05
+28,4285217,com.google.android.googlequicksearchbox:interactor,,service,0,2018-02-24 10:15:23,charging,68,wifi,-1,0,ac,0,-1,good,24.0,4.23
+29,4180201,com.whatsapp,whatsapp,service,452171,2018-02-20 23:31:46,charging,13,wifi,10,0,ac,0,-1,good,28.0,4.01
+30,3884293,com.sec.android.app.sbrowser:privileged_process0,,service,0,2018-02-04 04:33:00,charging,17,wifi,-1,0,ac,2566,-1,good,29.1,4.03
+31,4190461,com.tct.weather,meteorologia,service,418021101,2018-02-23 16:28:20,charging,96,wifi,-1,0,ac,0,-1,good,29.0,4.35
+32,4171483,com.sec.sve,secvideoengineservice,service,1,2018-02-22 11:52:49,discharging,34,disconnected,-1,1,unplugged,-490,-1,good,20.1,3.69
+33,3775274,com.mobdro.android:remote,,service,0,2018-01-30 01:03:14,charging,80,wifi,255,0,usb,0,-1,good,19.8,4.12
+34,4188528,com.google.android.googlequicksearchbox:search,,service,0,2018-02-22 22:17:33,charging,63,disconnected,-1,0,ac,2024,-1,good,27.8,4.34
+35,3847560,com.google.android.googlequicksearchbox:interactor,,service,0,2018-01-31 18:44:56,discharging,82,disconnected,-1,0,unplugged,0,-1,good,24.2,3.94
+36,3801644,com.facebook.katana:notification,,service,0,2018-01-31 18:17:59,charging,43,utms,161,1,ac,0,-1,good,22.0,4.03
+37,4341847,com.instagram.android:igplayer,,service,0,2018-03-16 01:14:42,charging,100,disconnected,-1,0,ac,264,-1,good,22.0,4.29
+38,3992637,com.google.android.googlequicksearchbox:interactor,,service,0,2018-02-11 17:50:58,charging,64,wifi,-1,0,ac,0,-1,good,32.0,4.26
+39,3984878,com.google.android.googlequicksearchbox:search,,service,0,2018-02-10 23:37:19,discharging,68,disconnected,-1,0,unplugged,0,-1,good,29.0,3.96
+40,4218856,com.microsoft.skydrive,onedrive,service,2025060510,2018-03-22 16:49:39,charging,77,wifi,52,0,ac,503,-1,good,26.6,4.15
+41,3781360,com.facebook.orca,messenger,service,89010167,2018-01-30 15:42:18,discharging,41,wifi,-1,1,unplugged,0,-1,good,30.0,3.46
+42,4418337,com.facebook.orca,messenger,service,96707673,2018-03-24 09:19:29,discharging,40,wifi,63,0,unplugged,0,-1,good,24.0,3.79
+43,4412737,com.google.android.music:main,google play música,service,67731,2018-03-14 16:49:46,discharging,85,wifi,-1,1,unplugged,0,-1,good,36.0,4.08
+44,3777024,com.google.android.talk,hangouts,service,24746340,2018-01-28 22:03:09,discharging,25,disconnected,-1,1,unplugged,-689,-1,good,29.5,3.69
+45,4155545,com.instagram.android:igplayer,,service,0,2017-12-06 23:13:53,discharging,77,lte,212,1,unplugged,0,-1,good,37.0,4.01
+46,4473815,com.hmatalonga.greenhub,batteryhub,service,14,2018-03-25 20:21:15,discharging,61,wifi,10,1,unplugged,0,-1,good,20.0,3.91
+47,4091478,com.samsung.android.smartface,smartfaceservice,service,1,2018-02-17 09:14:53,discharging,94,lte,-1,0,unplugged,-75,-1,good,20.7,4.22
+48,4469957,com.facebook.katana:notification,,service,0,2018-03-25 00:14:41,charging,32,wifi,-1,0,ac,0,-1,good,29.0,4.26
+49,3854070,com.estrongs.android.pop:local,,service,0,2018-02-03 18:55:11,discharging,57,disconnected,-1,1,unplugged,0,-1,good,29.3,3.89
+50,4412975,com.facebook.katana:videoplayer,,service,0,2018-03-17 14:24:04,charging,30,lte,-1,0,ac,755,-1,good,28.4,3.96
+51,3935488,com.hmatalonga.greenhub,batteryhub,service,11,2017-12-05 10:08:43,discharging,95,disconnected,78,1,usb,-9,-1,good,29.4,4.16
+52,3935329,com.google.android.googlequicksearchbox:interactor,,service,0,2018-02-08 12:57:17,not charging,84,wifi,-1,0,unplugged,0,-1,good,25.0,4.1
+53,4185834,com.facebook.orca,messenger,service,72205314,2018-02-19 08:33:31,discharging,61,disconnected,83,0,usb,358,-1,good,31.8,4.04
+54,4054339,com.hmatalonga.greenhub,batteryhub,service,14,2018-02-15 13:20:20,discharging,42,wifi,-1,1,unplugged,0,-1,good,35.0,3.81
+55,3919364,com.vodafone.mcare,my vodafone,service,248780168,2018-02-07 01:52:23,charging,70,disconnected,-1,0,ac,0,-1,good,25.0,4.3
+56,4413338,com.google.android.music:main,google play música,service,67731,2018-03-23 22:22:25,discharging,51,disconnected,-1,0,unplugged,-174,-1,good,24.7,3.81
+57,4361051,com.google.android.googlequicksearchbox:search,,service,0,2018-02-24 13:07:54,discharging,78,disconnected,16,0,unplugged,0,-1,good,18.7,4.07
+58,4326523,com.instagram.android:mqtt,,service,0,2018-03-20 01:38:28,charging,20,disconnected,-1,1,ac,0,-1,good,38.5,3.86
+59,4088559,com.google.android.music:main,google play música,service,66261,2018-02-17 14:34:20,discharging,74,wifi,-1,1,unplugged,0,-1,good,33.7,3.89
+60,4212801,com.facebook.katana,facebook,service,94117312,2018-03-05 15:53:27,discharging,60,wifi,-1,1,unplugged,0,-1,good,41.5,3.84
+61,4258212,com.sec.android.app.sbrowser:sandboxed_process0,,service,0,2018-02-26 21:35:31,discharging,51,disconnected,203,0,unplugged,-572,-1,good,28.3,3.84
+62,3997033,com.estrongs.android.pop,es file explorer,service,626,2018-02-11 20:16:53,discharging,67,wifi,124,0,unplugged,0,-1,good,27.2,3.79
+63,4341257,com.sec.android.app.samsungapps,galaxy apps,background process,421802110,2018-02-28 14:48:22,charging,66,disconnected,124,0,ac,-1,-1,good,25.0,4.13
+64,4413452,com.samsung.android.fingerprint.service,impressões digitais,service,10100,2018-03-11 10:15:47,discharging,99,edge,-1,0,unplugged,-200,-1,good,24.5,4.21
+65,3942347,com.google.android.music:main,google play música,service,66261,2018-02-08 10:22:04,discharging,86,utms,-1,0,unplugged,0,-1,good,18.9,4.08
+66,3829469,com.google.android.music:main,google play música,service,47211,2018-02-02 01:53:09,charging,77,wifi,-1,0,ac,1938,-1,good,25.9,4.28
+67,3908448,com.google.android.music:main,google play música,service,66261,2018-02-06 18:42:24,charging,28,utms,-1,1,ac,0,-1,good,29.0,3.74
+68,3884462,com.facebook.katana:videoplayer,,service,0,2018-02-05 14:01:33,discharging,55,lte,134,0,unplugged,0,-1,good,32.3,3.84
+69,4193300,com.sec.android.app.sbrowser,samsung internet,service,620112000,2018-02-23 00:29:56,charging,20,lte,255,0,ac,1513,-1,good,32.0,3.96
+70,4062359,com.samsung.android.app.cocktailbarservice,ecrã lateral,service,310000001,2018-02-15 23:04:27,charging,70,wifi,-1,0,ac,1033,-1,good,28.8,4.12
+71,4193813,com.estrongs.android.pop:local,,service,0,2018-03-22 02:56:22,charging,65,lte,231,0,ac,1552,-1,good,24.8,4.18
+72,3769099,com.vodafone.mcare,my vodafone,service,248780154,2018-01-29 00:19:31,charging,78,disconnected,129,0,ac,0,-1,good,22.0,4.31
+73,3791475,com.facebook.katana:videoplayer,,service,0,2018-01-30 06:03:05,discharging,93,disconnected,-1,0,unplugged,0,-1,good,26.0,4199.5
+74,4046165,com.android.chrome:sandboxed_process0,,service,0,2018-02-12 23:35:00,charging,47,disconnected,122,0,ac,2615,-1,good,28.4,4.19
+75,3784409,com.google.android.music:main,google play música,service,66261,2018-01-30 19:15:32,charging,20,disconnected,-1,0,ac,0,-1,good,33.1,3.99
+76,4031305,com.google.android.googlequicksearchbox:interactor,,service,0,2018-02-13 23:39:41,charging,91,wifi,-1,0,ac,0,-1,good,22.9,4.3
+77,3870380,com.google.android.inputmethod.latin,gboard,service,26680809,2018-02-03 23:25:10,discharging,15,disconnected,-1,0,unplugged,-123708,-1,good,32.5,3.58
+78,4295156,com.instagram.android,instagram,service,96794592,2018-03-15 22:29:57,charging,56,wifi,-1,1,ac,709,-1,good,28.2,4.14
+79,4259495,com.android.chrome:sandboxed_process0,,service,0,2018-03-17 20:37:38,discharging,47,disconnected,255,1,unplugged,0,-1,good,28.8,3.73
+80,3897121,com.google.android.googlequicksearchbox:interactor,,service,0,2018-02-05 14:09:35,discharging,81,lte,126,1,unplugged,0,-1,good,27.0,4.0
+81,3878984,com.samsung.android.app.cocktailbarservice,edge screen,service,310000001,2018-02-03 14:31:43,charging,5,disconnected,-1,1,ac,-26,-1,good,34.5,3.67
+82,3908158,com.google.android.googlequicksearchbox:interactor,,service,0,2018-02-06 19:53:28,discharging,30,disconnected,144,1,unplugged,-380,-1,good,21.7,3.6
+83,4370453,com.vlingo.midas,s voice,background process,11020200,2018-03-23 13:08:11,charging,44,wifi,60,1,ac,-1,-1,good,43.4,4.06
+84,4120242,com.google.android.inputmethod.latin,gboard,service,26690810,2018-02-19 12:21:12,discharging,42,wifi,-1,0,unplugged,0,-1,good,28.0,3.79
+85,3937739,com.facebook.katana:videoplayer,,service,0,2018-02-01 18:31:10,discharging,52,disconnected,142,1,unplugged,-870,-1,good,16.1,3.54
+86,4354897,com.google.android.googlequicksearchbox:search,,service,0,2018-03-22 19:05:59,discharging,52,wifi,16,1,unplugged,0,-1,good,22.2,3.74
+87,4160518,com.emoji.keyboard.touchpal,touchpal 2018,service,5213,2018-02-21 21:16:34,charging,15,wifi,-1,1,ac,0,-1,good,29.0,3.65
+88,4102351,com.google.android.googlequicksearchbox:interactor,,service,0,2018-02-17 21:35:44,discharging,41,utms,115,0,unplugged,0,-1,good,25.1,3.76
+89,4391323,com.google.android.music:main,google play música,service,67731,2018-03-07 21:40:55,charging,69,wifi,-1,0,ac,1948,-1,good,25.8,4.34
+90,4040035,com.facebook.orca:videoplayer,,service,0,2018-02-14 13:56:36,not charging,47,disconnected,102,1,unplugged,0,-1,good,20.0,3.74
+91,3758962,com.lge.wifi.p2p,lg p2p service,service,10000,2018-01-29 09:29:45,discharging,92,disconnected,242,1,unplugged,0,-1,good,23.4,4.1
+92,4511586,com.facebook.orca:videoplayer,,service,0,2018-03-27 06:34:12,charging,49,hspap,140,0,ac,2553,-1,good,25.8,4.21
+93,4133182,com.hmatalonga.greenhub,batteryhub,service,14,2018-02-20 09:53:11,charging,13,wifi,-1,0,ac,0,-1,good,32.0,3.98
+94,4423801,com.touchtype.swiftkey,teclado swiftkey,service,939524357,2018-03-24 09:27:31,charging,45,disconnected,-1,0,ac,0,-1,good,41.0,4.28
+95,4415476,com.android.chrome:sandboxed_process9,,service,0,2018-03-05 12:47:43,charging,40,wifi,-1,0,ac,0,-1,good,31.0,4.0
+96,3989159,com.facebook.orca,messenger,foreground app,90884549,2018-02-10 22:02:34,charging,61,wifi,137,0,ac,559884,-1,good,25.2,4.14
+97,4457489,com.facebook.orca,messenger,service,98311445,2018-03-25 03:58:21,discharging,35,disconnected,15,1,unplugged,0,-1,good,33.2,3.73
+98,4325048,com.facebook.orca:videoplayer,,service,0,2018-03-17 11:47:22,charging,77,wifi,-1,0,ac,0,-1,good,20.0,4.2
+99,4325562,com.google.android.googlequicksearchbox:search,,service,0,2018-03-17 02:13:01,charging,85,wifi,-1,0,ac,0,-1,good,20.0,4.2
