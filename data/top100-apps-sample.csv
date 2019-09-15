@@ -1,0 +1,101 @@
+sample_id,name,application_label,importance,version_code
+4013045,com.facebook.katana:videoplayer,,service,0
+4378633,com.mobdro.android:remote,,service,0
+4450303,com.touchtype.swiftkey,teclado swiftkey,service,820511125
+3946946,com.google.android.googlequicksearchbox:search,,service,0
+3999384,org.telegram.messenger,telegram,service,12131
+4283967,com.facebook.katana,facebook,service,96845997
+4513319,com.google.android.music:main,google play música,service,47211
+3808304,com.android.chrome:sandboxed_process7,,service,0
+3936678,com.facebook.orca:videoplayer,,service,0
+3786227,com.facebook.katana:notification,,service,0
+4445116,com.whatsapp,whatsapp,service,452192
+4216388,com.facebook.orca,messenger,service,96707677
+4501555,com.sec.android.app.sbrowser:privileged_process2,,service,0
+4502581,com.lge.wifi.p2p,lg p2p service,service,10000
+4126015,com.google.android.music:main,google play música,service,66261
+4027099,com.google.android.music:main,google play música,service,66261
+4427009,com.android.chrome:sandboxed_process0,,service,0
+4274677,com.facebook.katana:videoplayer,,service,0
+4159270,com.facebook.services,facebook services,service,84456996
+4292832,com.hmatalonga.greenhub,batteryhub,foreground app,14
+3992728,com.android.chrome,chrome,foreground app,328213752
+4394410,com.instagram.android:igplayer,,service,0
+3766515,com.viber.voip,viber,service,120295
+4127777,com.facebook.orca,messenger,service,91829660
+4177469,com.mobdro.android,mobdro,service,21412592
+3758986,com.facebook.orca,messenger,service,89010167
+4182299,com.ksmobile.launcher:locker,,foreground app,0
+4023739,com.facebook.orca:videoplayer,,service,0
+4285217,com.google.android.googlequicksearchbox:interactor,,service,0
+4180201,com.whatsapp,whatsapp,service,452171
+3884293,com.sec.android.app.sbrowser:privileged_process0,,service,0
+4190461,com.tct.weather,meteorologia,service,418021101
+4171483,com.sec.sve,secvideoengineservice,service,1
+3775274,com.mobdro.android:remote,,service,0
+4188528,com.google.android.googlequicksearchbox:search,,service,0
+3847560,com.google.android.googlequicksearchbox:interactor,,service,0
+3801644,com.facebook.katana:notification,,service,0
+4341847,com.instagram.android:igplayer,,service,0
+3992637,com.google.android.googlequicksearchbox:interactor,,service,0
+3984878,com.google.android.googlequicksearchbox:search,,service,0
+4218856,com.microsoft.skydrive,onedrive,service,2025060510
+3781360,com.facebook.orca,messenger,service,89010167
+4418337,com.facebook.orca,messenger,service,96707673
+4412737,com.google.android.music:main,google play música,service,67731
+3777024,com.google.android.talk,hangouts,service,24746340
+4155545,com.instagram.android:igplayer,,service,0
+4473815,com.hmatalonga.greenhub,batteryhub,service,14
+4091478,com.samsung.android.smartface,smartfaceservice,service,1
+4469957,com.facebook.katana:notification,,service,0
+3854070,com.estrongs.android.pop:local,,service,0
+4412975,com.facebook.katana:videoplayer,,service,0
+3935488,com.hmatalonga.greenhub,batteryhub,service,11
+3935329,com.google.android.googlequicksearchbox:interactor,,service,0
+4185834,com.facebook.orca,messenger,service,72205314
+4054339,com.hmatalonga.greenhub,batteryhub,service,14
+3919364,com.vodafone.mcare,my vodafone,service,248780168
+4413338,com.google.android.music:main,google play música,service,67731
+4361051,com.google.android.googlequicksearchbox:search,,service,0
+4326523,com.instagram.android:mqtt,,service,0
+4088559,com.google.android.music:main,google play música,service,66261
+4212801,com.facebook.katana,facebook,service,94117312
+4258212,com.sec.android.app.sbrowser:sandboxed_process0,,service,0
+3997033,com.estrongs.android.pop,es file explorer,service,626
+4341257,com.sec.android.app.samsungapps,galaxy apps,background process,421802110
+4413452,com.samsung.android.fingerprint.service,impressões digitais,service,10100
+3942347,com.google.android.music:main,google play música,service,66261
+3829469,com.google.android.music:main,google play música,service,47211
+3908448,com.google.android.music:main,google play música,service,66261
+3884462,com.facebook.katana:videoplayer,,service,0
+4193300,com.sec.android.app.sbrowser,samsung internet,service,620112000
+4062359,com.samsung.android.app.cocktailbarservice,ecrã lateral,service,310000001
+4193813,com.estrongs.android.pop:local,,service,0
+3769099,com.vodafone.mcare,my vodafone,service,248780154
+3791475,com.facebook.katana:videoplayer,,service,0
+4046165,com.android.chrome:sandboxed_process0,,service,0
+3784409,com.google.android.music:main,google play música,service,66261
+4031305,com.google.android.googlequicksearchbox:interactor,,service,0
+3870380,com.google.android.inputmethod.latin,gboard,service,26680809
+4295156,com.instagram.android,instagram,service,96794592
+4259495,com.android.chrome:sandboxed_process0,,service,0
+3897121,com.google.android.googlequicksearchbox:interactor,,service,0
+3878984,com.samsung.android.app.cocktailbarservice,edge screen,service,310000001
+3908158,com.google.android.googlequicksearchbox:interactor,,service,0
+4370453,com.vlingo.midas,s voice,background process,11020200
+4120242,com.google.android.inputmethod.latin,gboard,service,26690810
+3937739,com.facebook.katana:videoplayer,,service,0
+4354897,com.google.android.googlequicksearchbox:search,,service,0
+4160518,com.emoji.keyboard.touchpal,touchpal 2018,service,5213
+4102351,com.google.android.googlequicksearchbox:interactor,,service,0
+4391323,com.google.android.music:main,google play música,service,67731
+4040035,com.facebook.orca:videoplayer,,service,0
+3758962,com.lge.wifi.p2p,lg p2p service,service,10000
+4511586,com.facebook.orca:videoplayer,,service,0
+4133182,com.hmatalonga.greenhub,batteryhub,service,14
+4423801,com.touchtype.swiftkey,teclado swiftkey,service,939524357
+4415476,com.android.chrome:sandboxed_process9,,service,0
+3989159,com.facebook.orca,messenger,foreground app,90884549
+4457489,com.facebook.orca,messenger,service,98311445
+4325048,com.facebook.orca:videoplayer,,service,0
+4325562,com.google.android.googlequicksearchbox:search,,service,0
